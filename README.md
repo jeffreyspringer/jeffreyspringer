@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there! 👋<br><br>I'm an Aviation Meteorologist bridging the gap between weather prediction and software development.<br><br>### 🌤️ About Me<br>* ⛈️ **Currently:** Aviation Meteorologist at The Weather Company<br>* 👩‍💻 **Building:** A new weather forecasting tool <br>* 🤔 **Interested in:** Numerical Weather Models, Data Visualization, and Prediction Algorithms<br>* ☀️ **Background:** Previous experience in Marine Forecasting<br>* 🏌️‍♂️ **Off the clock:** Avid Golfer, 18hcp<br><br>### 🛠️ Tools & Technologies<br>* **Languages:** TypeScript, Python, JavaScript, HTML, CSS, MATLAB, and C++.<br>* **Libraries & Tools:** React.js, Jupyter Notebook.<br>
+## Hi there! 👋<br><br>I'm an Aviation Meteorologist bridging the gap between weather prediction and software development.<br><br>### 🌤️ About Me<br>* ⛈️ **Currently:** Aviation Meteorologist at The Weather Company<br>* 👩‍💻 **Building:** A new weather forecasting tool <br>* 🤔 **Interested in:** Numerical Weather Models, Data Visualization, and Prediction Algorithms<br>* ☀️ **Background:** Previous experience in Marine Forecasting<br>* 🏌️‍♂️ **Off the clock:** Avid Golfer, 18hcp<br>
 
 
 ## 🌐 Socials:
