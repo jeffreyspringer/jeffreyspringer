@@ -56,7 +56,13 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jeffreyspringer&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffreyspringer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="github stats"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffreyspringer&theme=dracula" height="150" alt="github stats"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jeffreyspringer&theme=dracula&row=1&column=6&no-bg=false&no-frame=true" alt="github trophies"  />
 </div>
 
 ###
