@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✈️  Aviation Meteorologist at The Weather Company<br>🧑‍💻  Building a new weather forecasting tool <br>🤔  Interested in Numerical Weather Models, Data Visualization, and Prediction Algorithms<br>🛥️  Previous experience in Marine Forecasting<br>🏌️‍♂️ Avid Golfer</p>
+<p align="left">✈️  Aviation Meteorologist at The Weather Company<br>🧑‍💻  Building a new weather forecasting tool <br>🤔  Interested in Numerical Weather Models, Data Visualization, and [...]
 
 ###
 
@@ -56,7 +56,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jeffreyspringer&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/jeffreyspringer/jeffreyspringer/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffreyspringer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="github stats"  />
 </div>
 
 ###
