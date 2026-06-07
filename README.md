@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✈️  Aviation Meteorologist at The Weather Company<br>🧑‍💻  Building a new weather forecasting tool <br>🤔  Interested in Numerical Weather Models, Data Visualization, and [...]
+<p align="left">✈️  Aviation Meteorologist at The Weather Company<br>🧑‍💻  Building a new weather forecasting tool <br>🤔  Interested in Numerical Weather Models, Data Visualization, and Prediction Algorithms<br>🛥️  Previous experience in Marine Forecasting<br>🏌️‍♂️  Golfer</p>
 
 ###
 
